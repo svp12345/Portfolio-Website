@@ -9,7 +9,7 @@ export const Bio = {
   description:"I develop seamless user interfaces and scalable backend solutions to create responsive, performance driven web applications.",
   github: "https://github.com/svp12345",
   resume:
-    "https://drive.google.com/file/d/1Huw4JmBoxwaLTjCQXUBd0hoPOqboXpLy/view",
+    "https://drive.google.com/file/d/1x-F5oEsx1o47N5dL9iP5S90Z4oZtoGdG/view",
   linkedin: "https://www.linkedin.com/in/shruti-pokale/",
 };
 
